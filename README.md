@@ -1,6 +1,7 @@
 # Fake-News-Detection
 This program can find the percentage of fake and real news given in a dataset. 
-The packages and libraries used for this project are as follows,
+
+ **Packages and libraries used**
  - nltk
  - Pandas
  - Numpy
@@ -9,7 +10,7 @@ The packages and libraries used for this project are as follows,
  - sklearn
  - Wordcloud
 
-</B> Methods </B>
+** Methods**
  - Logistic Regression
  - Decision Tree Classifier
  - Random Forest Classifier
